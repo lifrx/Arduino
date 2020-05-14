@@ -1,3 +1,4 @@
 # Arduino
 Tutoriels sur arduino
-Simple systeme d'alarme avec un détecteur de proximité ultrasonic HC-SR04 une alarme (buzzer passif) et deux lampes témoins
+- en code natif (c++)
+- en code python
